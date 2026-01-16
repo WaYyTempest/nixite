@@ -2,10 +2,12 @@
 
 > **★ Star the repo to support the project!**
 
-[![image](https://img.shields.io/github/license/aspizu/nixite)](https://github.com/aspizu/tshu/blob/main/LICENSE)
+[![image](https://img.shields.io/github/license/aspizu/nixite)](https://github.com/aspizu/nixite/blob/main/LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/MMfMkRuhAf)
 
 [**Open Nixite**](https://aspizu.github.io/nixite/)
+
+![image](public/screenshot.png)
 
 Nixite generates a bash script to unattendedly install all your Linux software.
 Nixite automatically configures your system and installs software using the best method available.
